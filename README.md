@@ -34,7 +34,7 @@ This task involved replicating the homepage of Netflix using HTML and CSS. I aim
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/bharat-intern-tasks.git
+   git clone https://github.com/Ashwani2529/Bharat-Intern.git
    ```
 
 2. Navigate to the respective task's directory:
