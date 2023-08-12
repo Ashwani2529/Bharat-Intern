@@ -3,7 +3,7 @@
 Welcome to the repository for my internship tasks completed at Bharat Intern. This repository contains the solutions for various tasks assigned during my internship.
 
 ## Task 1: Temperature Converter
-
+Link:- https://temp-switch.netlify.app/
 ### Description
 For this task, I created a simple yet effective website using CSS, HTML, and JavaScript to convert temperatures between Celsius and Fahrenheit. The website provides a user-friendly interface for entering a temperature in one unit and obtaining the equivalent value in the other unit.
 
@@ -13,7 +13,7 @@ For this task, I created a simple yet effective website using CSS, HTML, and Jav
 - Clear and concise design for ease of use.
 
 ## Task 2: Netflix Homepage
-
+Link:- https://netflix-homepage2.vercel.app/
 ### Description
 This task involved replicating the homepage of Netflix using HTML and CSS. I aimed to recreate the visual style and layout of the Netflix homepage to showcase my front-end development skills.
 
