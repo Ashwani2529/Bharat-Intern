@@ -13,7 +13,7 @@ For this task, I created a simple yet effective website using CSS, HTML, and Jav
 - Clear and concise design for ease of use.
 
 ## Task 2: Netflix Homepage
-Link:- https://netflix-homepage2.vercel.app/
+Link:- https://bharat-intern-wkth4ik43-ashwani2529.vercel.app/
 ### Description
 This task involved replicating the homepage of Netflix using HTML and CSS. I aimed to recreate the visual style and layout of the Netflix homepage to showcase my front-end development skills.
 
